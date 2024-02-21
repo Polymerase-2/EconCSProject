@@ -1,6 +1,7 @@
-var client_id = process.env.SPOTIPY_CLIENT_ID;
-var client_secret = process.env.SPOTIPY_CLIENT_SECRET;
+var client_id = "30cac4debe7f423eb830668305930adf";
+var client_secret = "62735ac866f64d7f96362f646356f42a";
 var redirect_uri = 'http://localhost:3000/callback';
+
 const express = require('express')
 const querystring = require('querystring');
 
