@@ -75,8 +75,8 @@
 //     console.log('App listening on port 3000');
 //   });
 
-var client_id = '83cd5597206f4c43a0ca1688217a235c';
-var client_secret = '359d44eb35454d9ab4dec39cf8d4324f';
+var client_id = '18b5e773b5ae4bd282cc2cac6176f899';
+var client_secret = '6be7d6b9a66b4f88ac8e7a84165f6755';
 const request = require('request');
 
 var authOptions = {
